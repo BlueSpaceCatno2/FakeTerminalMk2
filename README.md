@@ -2,7 +2,7 @@ When the program is run, enter the following: BSCC, WAC, GUEST, BSCC_EMPLOYEE, o
 Keep the caps.
 
 WAC has a special unguessable password
-BSCC has a publicly visible password
+BSCC has a internally visible password
 and the guest account has no password
 and both employee accounts have no password
 
